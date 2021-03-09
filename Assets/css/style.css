@@ -75,6 +75,7 @@ body {
  .imgDiv {
      width: 40%;
      margin: 10px;
+    
 }
 
 img {
@@ -85,7 +86,7 @@ img {
     width: 96%;
     margin: 0 auto;
 }
-
+    
 .imp{
     display: flex;
     width: 80%;
@@ -108,3 +109,11 @@ footer {
     footer p{
         text-align: center;
     }
+    /* @media screen and (max-width:320px){
+        img {
+            width: 500px;
+            height: 200px;
+            margin-top:30px;
+        }
+         
+    } */
