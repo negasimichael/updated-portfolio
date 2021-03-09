@@ -4,13 +4,24 @@ I used  to develop my portfolio with Botstrap layout.I  also develop  my portfol
 
 ![Portfilio](./Assets/Images/Ne1.png) 
 
-
-
 ![Portfilio](./Assets/Images/Ne2.png) 
-
-
 
 ![Portfilio](./Assets/Images/Ne3.png) 
 
 
 URL https://negasimichael.github.io/updated-portfolio/.
+
+## Contribution
+  [negasimichael](https://negasimichael.github.io/updated-portfolio/) is the only contrubuter of this project .
+
+   ## Developer Contact Information
+  * Linkedin Profile: [negasimichael](https://www.linkedin.com/feed/)
+  * Deployed URL: [negasimichael](https://negasimichael.github.io/updated-portfolio/index.html)
+  * Github URL: [negasimichael](https://github.com/negasimichael/updated-portfolio)
+  * Email: negasimichael1@gmail.com
+  
+## License
+   [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
+ 
+ ------------------------------------------------------------------------------
+© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
