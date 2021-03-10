@@ -17,7 +17,7 @@ URL https://negasimichael.github.io/updated-portfolio/.
 
    ## Developer Contact Information
   * Linkedin Profile: [negasimichael](https://www.linkedin.com/feed/)
-  *Resume Link: https://docs.google.com/document/d/1I02OJtvRKuHRGzd9Aupe3TUUBg0faXylacLDJpaS03k/edit?usp=sharing
+  * Resume Link: https://docs.google.com/document/d/1I02OJtvRKuHRGzd9Aupe3TUUBg0faXylacLDJpaS03k/edit?usp=sharing
   * Deployed URL: [negasimichael](https://negasimichael.github.io/updated-portfolio/index.html)
   * Github URL: [negasimichael](https://github.com/negasimichael/updated-portfolio)
   * Email: negasimichael1@gmail.com
